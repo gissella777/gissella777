@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 #### Testing!
+[![Gissella is nuts](https://i.ibb.co/QXyMnXn/2.png)]
 
 <!--
 **gissella777/gissella777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
