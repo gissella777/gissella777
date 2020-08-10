@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/ggC7CMy/gissella-Montenegro.png" alt="gissella-Montenegro" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/ggC7CMy/gissella-Montenegro.png" alt="gissella-Montenegro" border="0" width="100%"></a>
 
 
 
