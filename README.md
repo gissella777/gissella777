@@ -1,12 +1,4 @@
 ### Hi there 👋
-<a href="https://github.com/gissella777"><img src="https://i.ibb.co/QXyMnXn/2.pngg" align="left" width="100%" ></a>
-
-
-
-<!--
-**gissella777/gissella777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
