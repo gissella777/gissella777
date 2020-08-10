@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-[![Gissella is nuts](https://i.ibb.co/QXyMnXn/2.png)]
-
-
-<a href="url"><img src="https://i.ibb.co/QXyMnXn/2.pngg" align="left" width="100%" ></a>
+<a href="https://github.com/gissella777"><img src="https://i.ibb.co/QXyMnXn/2.pngg" align="left" width="100%" ></a>
 
 
 
