@@ -1,9 +1,8 @@
 <div align="center">
 
-# This is gonna be centered!
-
 ![Check out my work](https://i.ibb.co/ggC7CMy/gissella-Montenegro.png)
 </div>
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/ggC7CMy/gissella-Montenegro.png" alt="gissella-Montenegro" border="0" class="center"></a>
 
 
